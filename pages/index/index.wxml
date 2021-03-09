@@ -1,0 +1,11 @@
+<view class="page-body">
+  <text>得分：{{score}}</text>
+    <canvas canvas-id="canvas" class="canvas">
+    <button class="button1"bindtap="rightjump">
+   右
+    </button>
+    <button class="button2"bindtap="leftjump">
+  左
+    </button>
+    </canvas>
+</view>

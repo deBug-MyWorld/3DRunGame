@@ -1,0 +1,7 @@
+<view class="container">
+  <text>游戏结束
+  <text>你的得分是:{{grade}}</text>
+  </text>
+  <button bindtap="changeStart">重新开始</button>
+  <!-- <button bindtap="showLOG">查看日志</button> -->
+</view>

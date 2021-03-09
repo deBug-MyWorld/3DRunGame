@@ -1,0 +1,10 @@
+button{
+  position: absolute;
+  width: 150px;
+  margin-left: -75px;
+  left: 50%;
+  top: 60%;
+  background-color: #ccc;
+ 
+}
+

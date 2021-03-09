@@ -1,0 +1,18 @@
+.canvas {
+  width: 350px;
+  height:500px;
+  background-color: #fff;
+}
+.button1 {
+  width: 50%;
+  height: 100px;
+  position: fixed;
+  left:160px;
+  bottom: 0;
+}
+.button2 {
+  width: 50%;
+  height: 100px;
+  position: fixed;
+  bottom: 0;
+}
